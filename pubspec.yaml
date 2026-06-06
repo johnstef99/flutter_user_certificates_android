@@ -1,11 +1,11 @@
 name: flutter_user_certificates_android
 description: "A Flutter plugin to get the user CA certificates on Android."
-version: 0.0.1
+version: 0.1.0
 repository: https://github.com/johnstef99/flutter_user_certificates_android
 
 environment:
-  sdk: '>=3.4.0 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: ^3.12.0
+  flutter: '>=3.44.0'
 
 dependencies:
   flutter:
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^6.0.0
 
 flutter:
   plugin:
