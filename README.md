@@ -1,5 +1,9 @@
 # flutter_user_certificates_android
 
+[![pub package](https://img.shields.io/pub/v/flutter_user_certificates_android.svg)](https://pub.dev/packages/flutter_user_certificates_android)
+[![pub points](https://img.shields.io/pub/points/flutter_user_certificates_android)](https://pub.dev/packages/flutter_user_certificates_android/score)
+[![likes](https://img.shields.io/pub/likes/flutter_user_certificates_android)](https://pub.dev/packages/flutter_user_certificates_android/score)
+
 A Flutter plugin for getting user installed certificates on Android.
 
 ## Getting Started
